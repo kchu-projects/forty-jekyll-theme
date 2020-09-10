@@ -4,7 +4,7 @@ subtitle: by HTML5 UP
 email: kchu.projects@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://kchu-projects.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
